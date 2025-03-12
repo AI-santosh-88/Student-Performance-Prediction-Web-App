@@ -22,4 +22,17 @@
 ### Model Integration:
 * Load and utilize a pre-trained machine learning model (Desktop.pkl).
 
+## Libraries:
+### 1.Flask: 
+* For creating the web application.
+### 2.NumPy:
+* For numerical operations and array manipulation.
+### 3.Pandas: 
+* For data manipulation and storage (DataFrame, CSV).
+### 4.Joblib: 
+* For loading the pre-trained machine learning model.
+
+## Summary:
+* This project builds a basic web application that allows users to predict student performance based on study hours. It leverages Flask for the web interface, NumPy and Pandas for data handling, and Joblib to deploy a pre-trained machine learning model. The application provides a simple prediction service and stores input/output data for future analysis.
+
 
