@@ -1,10 +1,11 @@
 # TITLE: Student Performance Prediction Web App
 
+## problem statement:"To develop a user-friendly web application that accurately predicts a student's potential academic performance (measured as a percentage of marks) based on the number of hours they dedicate to studying daily. This application should provide a quick and accessible way for students to estimate the impact of their study habits on their potential grades, and it should store input and prediction data for future analysis."
+
 ## Description:
 * This project creates a simple web application using Flask that predicts a student's potential marks percentage based on the number of hours they study per day. The application utilizes a pre-trained machine learning model (likely a regression model) to make these predictions. Users input the study hours through a web form, and the application displays the predicted percentage. Additionally, it stores the input and predicted data in a CSV file for record-keeping.
 
 ## Responsibilities:
-
 ### Front-End Interaction:
 * Create a user-friendly HTML form (index.html) to collect study hours input.
 * Display the prediction results to the user on the same page.
